@@ -48,3 +48,7 @@
 - [ ] .
 - [ ] .
 - [ ] .
+
+---
+### Créditos
+Copyright (C) 2022 by John Dias
