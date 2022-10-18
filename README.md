@@ -17,7 +17,7 @@
 4.1. Onde será possível ao gestor analisar quantas senhas foram geradas e qual o tempo médio de chamada.<br>
 4.2. Possibilidade de analise de pico de movimento diário.
 
-### Linguagens Utilizadas.
+## Linguagens Utilizadas.
 ```
 ~~~php
 Corpo principal do projeto.
@@ -36,7 +36,7 @@ Layout do projeto.
 ~~~
 ```
 
-### Fases
+## Fases
 - [X] Detalhamento do projeto e criação do README.
 - [X] Criação de repositório no Github.
 - [ ] Início do projeto.
