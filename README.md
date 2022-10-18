@@ -23,19 +23,16 @@
 
 ## Linguagens Utilizadas.
 ~~~php
-PHP.
+• PHP
 ~~~
-
 ~~~javascript
-JavaScript.
+• JavaScript
 ~~~
-
 ~~~html
-HTML.
+• HTML 
 ~~~
-
 ~~~css
-CSS.
+• CSS
 ~~~
 
 ## Fases
