@@ -1,5 +1,9 @@
 # Projeto para Toten de Senhas
 
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
 ## Objetivo
 ### Projeto tem como objetivo criar um ecosistema composto por pelo menos 4 ambientes.
 
@@ -19,19 +23,19 @@
 
 ## Linguagens Utilizadas.
 ~~~php
-Corpo principal do projeto.
+PHP.
 ~~~
 
 ~~~javascript
-Funções de transição.
+JavaScript.
 ~~~
 
 ~~~html
-Regras gerais e estrutura.
+HTML.
 ~~~
 
 ~~~css
-Layout do projeto.
+CSS.
 ~~~
 
 ## Fases
