@@ -51,3 +51,31 @@
 
 ## Créditos
 Copyright (C) 2022 by John Dias
+
+
+<div class="tabset">
+  <input
+   type="radio"
+   name="tabset_1"
+   id="tabset_1_description"
+   hidden
+   checked
+  >
+  <input
+   type="radio"
+   name="tabset_1"
+   id="tabset_1_statistics"
+   hidden
+  >
+  <input
+   type="radio"
+   name="tabset_1"
+   id="tabset_1_reviews"
+   hidden
+  >
+  <input
+   type="radio"
+   name="tabset_1"
+   id="tabset_1_contact"
+   hidden
+  >
