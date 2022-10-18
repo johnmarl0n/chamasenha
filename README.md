@@ -18,7 +18,6 @@
 4.2. Possibilidade de analise de pico de movimento diário.
 
 ## Linguagens Utilizadas.
-```
 ~~~php
 Corpo principal do projeto.
 ~~~
@@ -34,7 +33,6 @@ Regras gerais e estrutura.
 ~~~css
 Layout do projeto.
 ~~~
-```
 
 ## Fases
 - [X] Detalhamento do projeto e criação do README.
